@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;balaji.mysql_insert&apos; to &apos;alam.mysql_insert&apos;&#x0A;- Original project: &apos;insql&apos;&#x0A;- Original element: &apos;insql/src/balaji.mysql_insert&apos;&#x0A;- Renamed element: &apos;insql/src/alam.mysql_insert&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;balaji.mysql_insert&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;balaji.mysql_insert" name="alam.mysql_insert" qualified="false" references="true" stamp="1394098502082" textual="false" version="1.0"/>
+</session>
